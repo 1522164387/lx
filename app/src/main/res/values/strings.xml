@@ -4,4 +4,10 @@
     <string name="next">下一个</string>
     <string name="previous">上一个</string>
     <string name="app_name">BookShow</string>
+
+    <string name="confirmation">Confirmation</string>
+    <string name="sure_to_delete">Are you sure to delete this item</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
 </resources>
